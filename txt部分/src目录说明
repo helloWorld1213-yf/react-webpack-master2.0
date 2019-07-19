@@ -1,0 +1,16 @@
+Actions       放所有 行为声明(Action)
+
+assets        放静态文件（需要一起打包出去的，如小图标、组件需要用到的样式...上线之后不会再变的东西）
+
+components    除主组件之外的其他所有组件
+
+css           所有css文件
+
+App.js        主组件
+
+index.js      挂载文件
+
+Routes.js     放所有路由
+
+Store.js      放所有reducer,并且在末尾生成store
+
