@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d7594cc-4647-4eb3-b3fa-8300dac6674b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/DataManager/git.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/DataManager/git.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/WholeUI/git.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/WorkoverTool/git.css" beforeDir="false" />
-    </list>
+    <list default="true" id="0d7594cc-4647-4eb3-b3fa-8300dac6674b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -269,7 +263,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2853000" />
+    <option name="totallyTimeSpent" value="3600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
