@@ -1,14 +1,17 @@
 .login-form {
-    max-width: 300px;
-}
-.login-form-forgot {
-    float: right;
-}
-.login-form-button {
-    width: 100%;
+  max-width: 300px;
 }
 
-.head{display: flex;
+.login-form-forgot {
+  float: right;
+}
+
+.login-form-button {
+  width: 100%;
+}
+
+.head {
+  display: flex;
   justify-content: center;
-  align-items:Center;
+  align-items: Center;
 }

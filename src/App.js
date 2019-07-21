@@ -5,31 +5,20 @@ import React,{Component} from "react";
 //antd引入样式
 import 'antd/dist/antd.css';
 //antd引入组件
-import {Button} from 'antd';
-import {Switch} from 'antd';
-import {DatePicker} from 'antd';
+import WorkoverData from "./components/WorkoverData/WorkoverData"
 
 class App extends Component{
-  constructor(...args){
-    super(...args);
+  constructor(props){
+    super(props);
   }
 
   render(){
     return (
         <div>
-          App组件
-          <ul>
-            <li>aaa</li>
-          </ul>
-
-          <Button/>
-          <Switch/>
-          <DatePicker/>
-
+            <WorkoverData/>
         </div>
     );
   }
 }
 
 export default App;
-
